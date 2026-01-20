@@ -15,8 +15,15 @@
 
 ## Installation
 
-1.  Download the latest `.vsix` release (e.g., `databricks-sync-0.0.4.vsix`).
-2.  Open your editor (VS Code, Trae, etc.).
+### Option 1: Marketplace (Recommended)
+1.  Open VS Code (or Trae/Cursor/Windsurf).
+2.  Go to the **Extensions** view (`Cmd+Shift+X`).
+3.  Search for **`Databricks Sync`**.
+4.  Click **Install**.
+
+### Option 2: Manual Installation (VSIX)
+1.  Download the latest `.vsix` release from the [Releases](https://github.com/mexmarv/databricks-sync/releases) page.
+2.  Open your editor.
 3.  Go to the **Extensions** view.
 4.  Click the **...** (Views and More Actions) menu -> **Install from VSIX...**.
 5.  Select the `.vsix` file.
