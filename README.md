@@ -51,7 +51,7 @@ Before using the extension, you must configure your Databricks credentials:
 
 ### "400 Bad Request" when saving
 *   This usually happens if the file format is not compatible with the API mode.
-*   **Fix:** Ensure you are using version **0.0.4** or later, which uses `format: 'AUTO'` to support all file types (YAML, Shell, etc.).
+*   **Fix:** Ensure you are using version **0.0.5** or later, which uses `format: 'AUTO'` to support all file types (YAML, Shell, etc.).
 
 ### "File Not Found"
 *   Ensure the path is correct and exists in your Databricks Workspace.
