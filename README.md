@@ -64,7 +64,8 @@ Before using the extension, you must configure your Databricks credentials:
 ## Support Me
 If this extension saved you from downloading/uploading files manually for the 1000th time, consider buying me a glass of wine! 🍷
 
-[![Buy Me A Wine](https://img.shields.io/badge/Buy%20Me%20A%20Wine-🍷-red?style=for-the-badge&logo=appveyor)](https://www.buymeacoffee.com/mexmarv) *(Note: Replaced Coffee with Wine because... prioritization!)*
+[![Buy Me A Wine](https://img.shields.io/badge/Buy%20Me%20A%20Wine-🍷-red?style=for-the-badge&logo=appveyor)](https://www.buymeacoffee.com/mexmarv) 
+*(Note: Replaced Coffee with Wine because... prioritization!)*
 
 ## Development
 
